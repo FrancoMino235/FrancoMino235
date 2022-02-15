@@ -1,5 +1,12 @@
-![capaName](https://user-images.githubusercontent.com/90634488/154059952-8250237f-a446-4acf-9f46-2f90b124a444.png)
 
+```js
+const Franco = {
+  fullName: 'Franco Miño',
+  nickName: 'Fran',
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'sqlite']
+}
+```
 
 ### Technical skills:  
 <p align="center">
