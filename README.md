@@ -23,7 +23,9 @@ const Franco = {
 </p>  
 
 ---  
-
+Hola, Mi nombre es Franco Miño y actualmente estoy culminando mi formacion como full stack web en Henry.
+Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
+--
 
 <p align="center">
     <a href="https://github.com/Francomino235">
