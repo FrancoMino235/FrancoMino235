@@ -4,7 +4,7 @@ const Franco = {
   fullName: 'Franco Miño',
   nickName: 'Fran',
   code: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
-  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', MongoDB]
+  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'MongoDB']
 }
 ```
 ---
