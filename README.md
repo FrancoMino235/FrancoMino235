@@ -23,8 +23,10 @@ const Franco = {
 </p>  
 
 ---  
-Hola, Mi nombre es Franco Miño y actualmente estoy culminando mi formacion como full stack web en Henry.
+Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme como FullStack web developer en Henry.💻🤓
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
+
+✅ Mis Skills: HTML5, CSS3, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Node JS, Express, SQL, PostgreSQL, Sequelize, MongoDB, Mongoose, Git.
 --
 
 <p align="center">
