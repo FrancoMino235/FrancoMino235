@@ -35,7 +35,7 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
 
 ---  
 - 📫 ¿Cómo contactarme?
-- 
+
 - ✅ Linkedin: https://www.linkedin.com/in/franco-mino-/
 - ✅ Portafolio: https://portafolio-franco-mino.vercel.app/ 
 - ✅ Correo: francomino261098@gmail.com
