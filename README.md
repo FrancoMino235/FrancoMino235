@@ -12,7 +12,8 @@ Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme com
 
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-✅ Mis Skills: HTML5, CSS3, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Node JS, Express, SQL, PostgreSQL, Sequelize, MongoDB, Mongoose, Git.
+✅ Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypeScript, Bootstrap PostgreSQL, Sequalize, MongoDB, Mongoose y Git  
+✅ Espero seguir desarrollándome como backend, mi objetivo es poder seguir aprendiendo nuevos lenguajes, librerías y frameworks enfocados al backend.
 --
 
 ---
