@@ -10,11 +10,11 @@ const Franco = {
 ---  
 Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme como FullStack web developer en Henry.💻🤓
 
-Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
+Para mi la comunicación y el trabajo en equipo son esenciales para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
 - Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScript, Bootstrap, PostgreSQL, Sequalize, MongoDB, Mongoose, Git.
 
-- Mi objetivo es seguir desarrollándome como Backend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
+- Mi objetivo es seguir desarrollándome como Backend pero no tengo problemas con el Front, ya que tengo bases en React.
 
 ---
 
