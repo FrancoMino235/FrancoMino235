@@ -40,10 +40,10 @@ I'm excited to continue learning and growing in this exciting world of technolog
 # 💻 Featured Organizations
 
 <a href="https://github.com/Nest-Microservices-FM">
-  <img src="https://kinsta.com/wp-content/uploads/2022/06/nest-js-logo.png" alt="Organization 1" style="max-width: 150px; height: auto;">
+  <img src="https://kinsta.com/wp-content/uploads/2022/06/nest-js-logo.png" alt="Organization 1" style="max-width: 150px; height: 150px;">
 </a>
 
-  
+
  # contact me
 - [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-mino-/)
 
