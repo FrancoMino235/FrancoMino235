@@ -9,6 +9,9 @@
 
 💡 My main goal is to continue growing as a professional, gaining more experience and knowledge in both backend and frontend development.
 
+# 🌐 Language
+
+- **English:** Reading proficiency in technical English
 
 
 ---
