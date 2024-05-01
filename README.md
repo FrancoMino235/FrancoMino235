@@ -2,13 +2,14 @@
 # 👋 Hi, I'm Franco!  
 👨‍💻 Hello there! I'm Franco Miño, an enthusiastic Full Stack Developer, although I specialize mainly in backend development. I received my training as a Full Stack Web Developer at Henry in February 2022. 💻🤓
 
-🏢 I've had the opportunity to work for 1 year and 4 months at the startup Henry SA as a Software Developer. During my time there, I gained experience in various areas such as software development, unit testing, and I took on roles like Product Owner and Scrum Master. I also had the chance to work on automations using JavaScript in AppScript. I particularly enjoy working in startups because it allows me to have a more dynamic role and continuous growth.
+🏢 During my time at the startup Henry SA, I had the opportunity to be part of the team that initiated the development of a robust examination system. We implemented a bi-weekly exam schedule using agile methodologies and unit testing to ensure continuous improvement and reliability. While I didn't lead the team, my colleagues and I were able to bring continuous improvements to the system. Additionally, I contributed to optimizing evaluation processes for students during their lab stages.
 
-📚 I have knowledge in design patterns and some experience in software architecture. I'm always eager to learn and strive for the expected results.
 
-💡 My main goal is to continue growing as a backend developer, although I'm also open to working on frontend software development.
+📚 I have a strong background in software development, with a specialized focus on backend and a solid understanding of frontend. I'm passionate about crafting efficient and scalable solutions in the backend, while also having a keen interest in frontend development. My goal is to continue honing my skills as a backend developer while remaining adaptable to frontend challenges. I have acquired a robust understanding of design patterns and software architecture, applying these principles to create reliable and scalable solutions. While my primary focus lies in backend development, where I can deliver comprehensive and effective solutions, I also have experience in frontend, particularly with React and Next, enabling me to make significant contributions in that domain when needed.
 
-I'm excited to continue learning and growing in this exciting world of technology! 🚀
+💡 My main goal is to continue growing as a professional, gaining more experience and knowledge in both backend and frontend development.
+
+
 
 ---
 
