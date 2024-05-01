@@ -1,8 +1,5 @@
 
-```
-# 👋 Hi, I'm Franco!
-```
----  
+# 👋 Hi, I'm Franco!  
 👨‍💻 Hello there! I'm Franco Miño, an enthusiastic Full Stack Developer, although I specialize mainly in backend development. I received my training as a Full Stack Web Developer at Henry in February 2022. 💻🤓
 
 🏢 I've had the opportunity to work for 1 year and 4 months at the startup Henry SA as a Software Developer. During my time there, I gained experience in various areas such as software development, unit testing, and I took on roles like Product Owner and Scrum Master. I also had the chance to work on automations using JavaScript in AppScript. I particularly enjoy working in startups because it allows me to have a more dynamic role and continuous growth.
