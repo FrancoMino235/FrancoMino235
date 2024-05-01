@@ -37,14 +37,19 @@ I'm excited to continue learning and growing in this exciting world of technolog
 ![Slack](https://img.shields.io/badge/Slack-%230A4375.svg?style=for-the-badge&logo=slack&logoColor=white)
 
 
+# 💻 Featured Organizations
 
+<a href="https://github.com/Nest-Microservices-FM">
+  <img src="https://kinsta.com/wp-content/uploads/2022/06/nest-js-logo.png" alt="Organization 1" style="max-width: 150px; height: auto;">
+</a>
 
----  
-- 📫 ¿Cómo contactarme?
+  
+ # contact me
+- [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-mino-/)
 
-- ✅ Linkedin: https://www.linkedin.com/in/franco-mino-/
-- ✅ Portafolio: https://portafolio-franco-mino.vercel.app/ 
-- ✅ Correo: francomino261098@gmail.com
+- [![Portafolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=website&logoColor=white)](https://portafolio-franco-mino.vercel.app/)
+
+- [![Correo](https://img.shields.io/badge/Correo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francomino261098@gmail.com)
 
 ---  
 
