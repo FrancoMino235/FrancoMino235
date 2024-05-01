@@ -1,37 +1,54 @@
 
-```js
-const Franco = {
-  fullName: 'Franco Miño',
-  code: ['CSS', 'HTML', 'JavaScript', 'Python', 'TypeScript'],
-  tools: ['CI/CD', 'Docker', 'Express', 'Git', 'Kubernetes', 'Microservices', 'MongoDB', 'Nest', 'Node', 'Prisma', 'React', 'Redux', 'Unit testing', 'postgreSQL']
-}
+```
+# 👋 Hi, I'm Franco!
 ```
 ---  
-Hola 🖐️😉, mi nombre es Franco Miño, soy Full stack Developer, pero estoy más enfocado al backend, me formé como FullStack web developer en Henry en febrero del 2022 .💻🤓
 
-He trabajado 1 año y 4 meses en la startup Henry SA como Software Developer, donde aprendí y realice testing unitario, software para evaluar a los alumnos, desarrolle el rol de Product Owner y Scrum master, realice automatizaciones con JavaScript en AppScript, me gusta trabajar en startups porque puedo desempeñar un roll más dinámico y en continuo crecimiento, tengo conocimientos en patrones de diseño y un poco sobre arquitectura de software, siempre estoy predispuesto a aprender y buscar los resultados esperados.
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 
-- Mi objetivo es seguir desarrollándome como Backend, pero no tengo problemas en desarrollar software en el Front.
+👨‍💻 Hello there! I'm Franco Miño, an enthusiastic Full Stack Developer, although I specialize mainly in backend development. I received my training as a Full Stack Web Developer at Henry in February 2022. 💻🤓
+
+🏢 I've had the opportunity to work for 1 year and 4 months at the startup Henry SA as a Software Developer. During my time there, I gained experience in various areas such as software development, unit testing, and I took on roles like Product Owner and Scrum Master. I also had the chance to work on automations using JavaScript in AppScript. I particularly enjoy working in startups because it allows me to have a more dynamic role and continuous growth.
+
+📚 I have knowledge in design patterns and some experience in software architecture. I'm always eager to learn and strive for the expected results.
+
+💡 My main goal is to continue growing as a backend developer, although I'm also open to working on frontend software development.
+
+I'm excited to continue learning and growing in this exciting world of technology! 🚀
 
 ---
 
-### Technical skills:  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="40" height="40" />
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" width="80" height="40" />
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="40" height="40" />
-  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="40" />
-  <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" height="40"/>
-  <img src="https://ih1.redbubble.net/image.404023266.1965/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" height="40"/>
-</p>  
+### Tech Stack:  
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232a0e94.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-%23E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-%233D72D3.svg?style=for-the-badge&logo=faker&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%230A4375.svg?style=for-the-badge&logo=slack&logoColor=white)
+
+
+
 
 ---  
 - 📫 ¿Cómo contactarme?
