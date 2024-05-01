@@ -40,7 +40,7 @@
 
 # 💻 Featured Organizations
 
-<a href="https://github.com/Nest-Microservices-FM">
+<a href="https://github.com/orgs/Nest-Microservices-FM/repositories">
   <img src="https://kinsta.com/wp-content/uploads/2022/06/nest-js-logo.png" alt="Organization 1" style="max-width: 150px; height: 150px;">
 </a>
 
